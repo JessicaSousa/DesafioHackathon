@@ -1,4 +1,4 @@
-# Desafio da MarathonAI 2021
+# Análise de partidas de League of Legends (LoL)
 
 <a href="https://www.researchgate.net/figure/A-Map-of-the-League-of-Legends-game-play-in-the-classic-mode_fig1_319839481"><img src="https://www.researchgate.net/profile/Patrick-Shih-2/publication/319839481/figure/fig1/AS:539281729228800@1505586191613/A-Map-of-the-League-of-Legends-game-play-in-the-classic-mode.png" alt="A Map of the League of Legends game play in the classic mode."/></a>
 
