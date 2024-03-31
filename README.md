@@ -1,6 +1,6 @@
 # Análise de partidas de League of Legends (LoL)
 
-<a href="https://www.researchgate.net/figure/A-Map-of-the-League-of-Legends-game-play-in-the-classic-mode_fig1_319839481"><img src="https://www.researchgate.net/profile/Patrick-Shih-2/publication/319839481/figure/fig1/AS:539281729228800@1505586191613/A-Map-of-the-League-of-Legends-game-play-in-the-classic-mode.png" alt="A Map of the League of Legends game play in the classic mode."/></a>
+<a href="https://www.researchgate.net/figure/A-Map-of-the-League-of-Legends-game-play-in-the-classic-mode_fig1_319839481"><img src="https://s2-techtudo.glbimg.com/FvVp6C8s9wmFWC2YwdO096XlUXM=/0x0:2400x1708/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/K/y/nj1EsBR0ANgvEBN9BWvA/summoners-rift-update-map.png" alt="A Map of the League of Legends game play in the classic mode."/></a>
 
 
 
